@@ -351,6 +351,12 @@ Start Django on another port:
 uv run python manage.py runserver 8001
 ```
 
+Kill a port:
+
+```bash
+fuser -k 8000/tcp   # replace 8000 with port
+```
+
 ## Development Workflow
 
 1. Clone the boilerplate.
