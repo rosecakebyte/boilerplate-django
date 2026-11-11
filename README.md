@@ -351,7 +351,7 @@ Start Django on another port:
 uv run python manage.py runserver 8001
 ```
 
-Kill a port:
+Kill a port (proceed with caution)
 
 ```bash
 fuser -k 8000/tcp   # replace 8000 with port
