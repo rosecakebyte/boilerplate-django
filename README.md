@@ -1,7 +1,7 @@
 # Django Web Application Boilerplate
 
 A reusable Django boilerplate designed to get web application projects up and running quickly with minimal configuration.
-
+Original Guide for Django: https://docs.djangoproject.com/en/6.1/intro/tutorial01/
 This project uses `uv` for Python dependency management, Django for the web framework, and `python-dotenv` for environment variable management.
 
 ## Features
